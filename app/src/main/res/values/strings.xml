@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="check_connection">Please, check connection</string>
+    <string name="enter_your_name">Enter your name :</string>
+    <string name="name">Name</string>
+    <string name="get_game_id">Get Game id</string>
+    <string name="your_game_id_is">Your Game ID is :</string>
+    <string name="game_id">GAME-ID</string>
+    <string name="waiting_for_player_to_join">Waiting for Player to join...</string>
+    <string name="start_game">Start Game</string>
+    <string name="povered_by_n_shakhriyor20">Povered by \n @shakhriyor20</string>
+    <string name="create_game">Create Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="quit_game">Quit Game</string>
+
+</resources>
